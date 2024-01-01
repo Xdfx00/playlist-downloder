@@ -2,7 +2,7 @@
 
 # Define a list of playlist URLs
 playlist_urls=(
-	"https://www.youtube.com/watch?v=fBQumYn4I-M&list=RDfBQumYn4I-M&start_radio=1"
+	" # Enter here your youtube Url in double quotes"
 )
 
 # Loop through each playlist URL
